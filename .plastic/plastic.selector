@@ -1,0 +1,4 @@
+repository "Farmer@clondiyak@cloud"
+  path "/"
+    br "/main"
+    co "/main"
